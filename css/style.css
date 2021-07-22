@@ -76,10 +76,39 @@ a.active,a:hover{
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
-
-.container{
-    color:white;
-    padding:230px 0 0 100px;   
+.main{
+  text-align: center;
+  color: steelblue;
+  padding: 300px 0 0 100px;
+}
+.btn{
+  margin: 20px 0;
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 5px;
+}
+.get{
+  background-color: #000000;
+}
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+.ig{
+  background-color: #FF1493;
+  margin-right: 10px;
+}
+.twitter{
+  background-color: #1E90FF;
+  margin-right: 10px;
+}
+.fa {
+  margin-right: 5px;
+}
+ 
+  
 }
 .foot{
   display: flex;
