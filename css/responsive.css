@@ -39,4 +39,9 @@
   #check:checked ~ ul{
     left: 0;
   }
+  .gambar img{
+    height: 100px;
+    width: 200px;
+    margin:200px 500px;
+  }
 }
