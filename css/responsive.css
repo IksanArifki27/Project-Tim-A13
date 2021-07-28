@@ -40,8 +40,18 @@
     left: 0;
   }
   .gambar img{
-    height: 100px;
-    width: 200px;
-    margin:200px 500px;
+   display: none;
+  }
+  .content-main{
+    display: list-item;
+    align-items: baseline;
+ 
+  
+  }
+  h3{
+    text-align: center;
+  }
+  .background{
+    height: 100%;
   }
 }
